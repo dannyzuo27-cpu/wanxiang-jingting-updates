@@ -2,13 +2,13 @@
   "schemaVersion": 1,
   "product": "wanxiang-jingting",
   "channel": "stable",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "components": [
     "operations",
     "brand-profile"
   ],
-  "package_url": "https://raw.githubusercontent.com/dannyzuo27-cpu/wanxiang-jingting-updates/main/wanxiang-1.0.14.tar.gz",
-  "package_sha256": "c2b20c1f991827af8e7cdbee1b624d391fec59d0cebf09c9678ef0856dc9cb77",
-  "published_at": "2026-08-26T10:09:26.497369+00:00",
-  "signature": "LIcm6cWCbMDJL8520cXf4m2Ip42ISri4vdjoT2iDBmf2D+yWWnUv8c2+XxLzO9bgSwJSFWdgZIsyhh3Qef2gb/WXEnvEpro/z0Kw69hPmiLP0eV8mB3vHoQwxp6fOhvo+Yx/M1nNHyagvqNOHJvCeUofRzO5Q/+lV3N8EaqlqXfNPUxESfitrfz5s6cPcxNsm3cjYNwkQSToepinTXpTA9j47BLJr9JISFBAw022t1ivrzZqe28RR09XOWfb6wdQ9HXTINFazkX+8clyDDJJDWjDcJqmKTHCoxMPcI53ELZhUURC9iL8ga3niRh39tNX82b/Ek4++2YAL26RFauXineGdcs7es4wISlidgoW8m9A+H2AFkjyo0u3My5cGb5bFC94vPojOk42XlKDtjL/kNri220GZy7VMn1ieYwru8zv/dH0xUumATDhoiN5wXFeboo4WB3uOe7scS1Kbt09PSswGYIqsQbHYVPVBaeuxGOLZmmM9+79L4rcUC1BfzKK"
+  "package_url": "https://raw.githubusercontent.com/dannyzuo27-cpu/wanxiang-jingting-updates/main/wanxiang-1.0.15.tar.gz",
+  "package_sha256": "21acce5176259bfefae0091a98de94a7f55dc252d250e2f4057c8b4d5ae7f600",
+  "published_at": "2026-08-26T10:14:21.874459+00:00",
+  "signature": "HnatNIwF6kdEkdkDSg8RVQe/9G4gftz+H5MQrxnGZ5qO9BML4JTf/ZB5hFvceVDINqrLl0MWito1Uav+41bUFiygL15GMEvcgaOFOQfrE4a9jdBGFkdEIqAU5w0w2fFVYAjwexODWT0QNN1E2+2PvtQmqzLVOn4tbsZekyEUnK7e86x9riphhrYfqfWxRylCOwPbZs7MeNdiVTRlj4r8UZz6gTiJB88IyERWOcu1cA/WAnrt3pSHKtG5LZq6nmoneOPc9bcdonwzJqRIguXzPfVQesB12p2NSVK9g0wLbopq3HKhjkzl+oKpw1+4q4oYPUaCsOktfa66Z/S21pBhafeF5jzGFiGync2B1udGjEorw4w1PP5NW+7kJuYSacK4KEnhfnqvnV92ly3yfIjihuobYmaW2QY5GOTh5G1CiIEAJebBN+YEofNoS/uGoE2yPDBm1NpZ77JHiicr6pi4B77ugX4QMLrIYjfuBsAygB+qF2vCrQ2qxe8KytN6b9fY"
 }
